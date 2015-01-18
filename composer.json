@@ -1,0 +1,16 @@
+{
+    "name": "amazingdreams/phputils",
+    "description": "This package contains various commonly used php utilities",
+    "authors": [
+        {
+            "name": "Dennis Ruhe",
+            "email": "dennis@amazingsystems.nl"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "psr-4" : {
+            "AD\\PHPUtils\\" : "src/"
+        }
+    }
+}
